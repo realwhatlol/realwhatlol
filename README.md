@@ -18,5 +18,5 @@
 <br />
 
 ### Contact:
- - Discord: whatlol#
+ - Discord: whatlol#5809
  - Email: contact@whatlol.xyz
